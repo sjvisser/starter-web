@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sander Visser	svisser@gmail.com	@sanderv
 
 # THANKS
 
